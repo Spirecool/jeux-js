@@ -1,0 +1,28 @@
+.plus {
+    color: red;
+}
+
+body {
+    max-width: 500px;
+    margin: auto;
+}
+
+.bandeau {
+    width: 100%;
+    max-height: 267px;
+}
+
+#beginGame{
+    background-color: bisque;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+
+input {
+    border-radius: 4px;
+}
+
+.danger { 
+    color: red;
+}
